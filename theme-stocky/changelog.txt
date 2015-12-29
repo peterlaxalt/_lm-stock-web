@@ -1,0 +1,53 @@
+=============================================================
+Changelog
+=============================================================
+
+9-30-2015		1.3.3		- Fixed download images showing in product gallery
+					- Fixed related products showing too many products
+					- Updated wp_title
+					- Updated widget_init
+
+9-09-2015		1.3.2		- Fixed an issue where widgets on download archives were displaying the wrong number of posts
+
+8-25-2015		1.3.1		- Updated deprecated code for WP 4.3
+
+05-27-2015		1.3		- Added option to display a different number of items on the homepage vs everywhere else
+					- The Excerpt can now be displayed in the Download Sidebar
+					- Download Sidebar is now Widgetized
+					- Cleaned CSS on child categories on menu widgets
+					- Cleaned CSS on Gravity Forms in Widgets
+					- Fixed an issue where the Featured User Widget was linking to the wrong user
+
+03-04-2015		1.2.4		- Fixed a PHP short tag issue
+
+02-13-2015		1.2.3		- CSS updates
+					- Fixed an error with Google Fonts when using an SSL
+
+02-09-2015		1.2.2		- Fix for EXIF data display 
+
+02-04-2015		1.2.1		- FES backwards compatibility 
+
+02-02-2015		1.2		- Lots of CSS updates
+					- EXIF data is now (optionally) extracted and displayed on download pages
+					- Added custom header images to Vendor Pages. **See help file for more info
+					- Added an optional sidebar to Download Archives
+					- Added option for specific categories to be displayed on the home page
+					- Added support for Relavanssi plugin search results
+					- Added EDD Commissions icon to FES Dashboard
+					- Added option to keep menu visible at all times
+					- Added LinkedIn to Social Network Icons
+					- Added Option for light menu color scheme
+					- Featured User widget now links to the User’s Portfolio
+					- More support for videos in FES. **See help file for more info
+					- Fixed an issue with header images on iPads
+					- Removed Wish Lists file and added more CSS support for the EDD Wish List plugin
+
+07-31-2014		1.1		- Full size image is now never shown on the site, Video support, minor php and css tweaks
+
+07-17-2914		1.0.3		- CSS updates
+
+07-15-2014		1.0.2		- Fix for users not being able to scroll due to a plugin conflict, a few minor css and php tweaks
+
+07-14-2014		1.0.1		- Various CSS fixes
+
+07-08-2014		1.0		- Initial release

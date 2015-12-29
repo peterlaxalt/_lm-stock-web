@@ -1,0 +1,852 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Stocky\n"
+"POT-Creation-Date: 2015-09-30 16:55-0500\n"
+"PO-Revision-Date: 2015-09-30 16:55-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:3 archive-download.php:27 archive.php:70 index.php:16
+#: single-download.php:154 single.php:23
+msgid "Sorry, we can't seem to find what you're looking for."
+msgstr ""
+
+#: 404.php:4 archive-download.php:28 archive.php:71 index.php:17
+#: single-download.php:155 single.php:24
+msgid "Please try one of the links on top."
+msgstr ""
+
+#: archive.php:8
+msgid "Category"
+msgstr ""
+
+#: archive.php:11
+msgid "Posts Tagged with"
+msgstr ""
+
+#: archive.php:14 archive.php:17 archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:23
+msgid "Author Archive "
+msgstr ""
+
+#: archive.php:26
+msgid "Blog Archives "
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: edd_templates/shortcode-content-image.php:10
+msgid "Details"
+msgstr ""
+
+#: footer.php:52
+#, php-format
+msgid ""
+"Built with <a href=\"%1$s\">Stocky</a> and <a href=\"%2$s\">Easy Digital "
+"Downloads</a>"
+msgstr ""
+
+#: functions.php:46
+msgid ""
+"The Options Framework plugin is required for this theme to function properly."
+msgstr ""
+
+#: functions.php:46 functions.php:59
+msgid "Install now"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"The Easy Digital Downloads plugin is required for this theme to function "
+"properly."
+msgstr ""
+
+#: functions.php:182
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:223
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:245
+msgid "Home"
+msgstr ""
+
+#: functions.php:247
+msgid ""
+"Widgets for the home page, just below the title and search bar. They will "
+"resize based on how many you use."
+msgstr ""
+
+#: functions.php:254
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:256
+msgid "These widgets will show up in your sidebar."
+msgstr ""
+
+#: functions.php:263
+msgid "Single Download Sidebar"
+msgstr ""
+
+#: functions.php:265
+msgid ""
+"These widgets display on single download pages, next to the featured image."
+msgstr ""
+
+#: functions.php:272
+msgid "Footer"
+msgstr ""
+
+#: functions.php:274
+msgid ""
+"Widgets for the footer of your site. They will resize based on how many you "
+"use."
+msgstr ""
+
+#: functions.php:281
+msgid "Downloads sidebar"
+msgstr ""
+
+#: functions.php:283
+msgid ""
+"These widgets will show up in the sidebar on the downloads archive page."
+msgstr ""
+
+#: functions.php:302
+msgid "Featured Video"
+msgstr ""
+
+#: functions.php:309
+msgid "oEmbed Link"
+msgstr ""
+
+#: functions.php:310
+msgid ""
+"Enter the full URL to your video. <a href=\"http://codex.wordpress.org/Embeds"
+"\">Learn more about oEmbeds</a>."
+msgstr ""
+
+#: functions.php:357
+msgid "Related Products"
+msgstr ""
+
+#: functions.php:381
+msgid "Invalid sidebar ID"
+msgstr ""
+
+#: functions.php:398
+#, php-format
+msgid "This post was written by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: functions.php:417
+msgid ""
+"A widget that will display a specified user's gravatar, display name, bio, "
+"and link to their author post archive."
+msgstr ""
+
+#: functions.php:420
+msgid "Featured User"
+msgstr ""
+
+#: functions.php:501
+msgid "Widget Title:"
+msgstr ""
+
+#: functions.php:507
+msgid "Select User:"
+msgstr ""
+
+#: functions.php:549
+msgid "Displays a grid of thumbnails of your latest products."
+msgstr ""
+
+#: functions.php:550 functions.php:572
+msgid "New Products"
+msgstr ""
+
+#: functions.php:632
+msgid "Title:"
+msgstr ""
+
+#: functions.php:635
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions.php:666
+msgid "#EXIF data"
+msgstr ""
+
+#: functions.php:670
+msgid "Aperture"
+msgstr ""
+
+#: functions.php:677
+msgid "Credit"
+msgstr ""
+
+#: functions.php:684
+msgid "Camera"
+msgstr ""
+
+#: functions.php:691
+msgid "Caption"
+msgstr ""
+
+#: functions.php:698
+msgid "Created"
+msgstr ""
+
+#: functions.php:705
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:712
+msgid "Focal length"
+msgstr ""
+
+#: functions.php:719
+msgid "ISO"
+msgstr ""
+
+#: functions.php:726
+msgid "Shutter speed"
+msgstr ""
+
+#: functions.php:733
+msgid "Title"
+msgstr ""
+
+#: functions.php:740
+msgid "Orientation"
+msgstr ""
+
+#: functions.php:778
+msgid "Average Rating"
+msgstr ""
+
+#: functions.php:939
+#, php-format
+msgid "<span>%1$s</span> says"
+msgstr ""
+
+#: functions.php:942
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:949
+msgid "Edit"
+msgstr ""
+
+#: functions.php:949
+msgid "Reply"
+msgstr ""
+
+#: functions.php:956
+msgid "Trackback from"
+msgstr ""
+
+#: header.php:46
+msgid "Logout"
+msgstr ""
+
+#: header.php:53 header.php:54
+msgid "Member Login"
+msgstr ""
+
+#: header.php:62 header.php:63
+msgid "Cart"
+msgstr ""
+
+#: header.php:97
+#, php-format
+msgid "1 Product Result for <em>%2$s</em>"
+msgstr ""
+
+#: header.php:99
+#, php-format
+msgid "%1$s Product Results for <em>%2$s</em>"
+msgstr ""
+
+#: header.php:140
+#, php-format
+msgid "The Shop of %s"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:306
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:601
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:674
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:695
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: includes/metabox/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: includes/metabox/init.php:259
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: includes/metabox/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: includes/metabox/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/metabox/init.php:1177
+msgid "Save"
+msgstr ""
+
+#: loop-latestpost.php:57
+msgid "Read More &rarr;"
+msgstr ""
+
+#: loop-post.php:27
+msgid "0 Comments"
+msgstr ""
+
+#: loop-post.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: loop-post.php:27
+msgid "% Comments"
+msgstr ""
+
+#: loop-post.php:27
+msgid "Comments Closed"
+msgstr ""
+
+#: loop-post.php:34
+msgid "Read More"
+msgstr ""
+
+#: options.php:49
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:52
+msgid "Logo Retina Display"
+msgstr ""
+
+#: options.php:53
+msgid ""
+"Checking this box will display your logo at half size, making it look crisp "
+"on iDevices. Make your logo twice as big as you want it to display if you "
+"check this box."
+msgstr ""
+
+#: options.php:58
+msgid "Logo"
+msgstr ""
+
+#: options.php:59
+msgid "Upload your logo."
+msgstr ""
+
+#: options.php:63
+msgid "Favicon"
+msgstr ""
+
+#: options.php:64
+msgid ""
+"The Favicon is the little 16x16 icon that appears next to your URL in the "
+"browser. It is not required, but recommended."
+msgstr ""
+
+#: options.php:68
+msgid "Site Layout"
+msgstr ""
+
+#: options.php:69
+msgid "Select a layout for the site."
+msgstr ""
+
+#: options.php:78
+msgid "Credit Where Credit Is Due"
+msgstr ""
+
+#: options.php:79
+msgid ""
+"Checking this box will give credit to the Stocky theme and Easy Digital "
+"Downloads in the footer."
+msgstr ""
+
+#: options.php:84
+msgid "Keep menu expanded"
+msgstr ""
+
+#: options.php:85
+msgid "Checking this box will keep the menu visible by default."
+msgstr ""
+
+#: options.php:90
+msgid "Home Page"
+msgstr ""
+
+#: options.php:93
+msgid "Header Background"
+msgstr ""
+
+#: options.php:94
+msgid ""
+"Upload the image for your header background. It will be sized to 100% width "
+"of the screen."
+msgstr ""
+
+#: options.php:98
+msgid "Header Text Color"
+msgstr ""
+
+#: options.php:99
+msgid ""
+"Select the color for the text overlaying the image in your header. This is "
+"to help it stand apart."
+msgstr ""
+
+#: options.php:103 options.php:193
+msgid "Light"
+msgstr ""
+
+#: options.php:103 options.php:193
+msgid "Dark"
+msgstr ""
+
+#: options.php:105
+msgid "Call To Action Text"
+msgstr ""
+
+#: options.php:106
+msgid "This appears before the footer."
+msgstr ""
+
+#: options.php:111
+msgid "Call To Action Background"
+msgstr ""
+
+#: options.php:112
+msgid ""
+"Upload the image for your call to action background. It will be sized to "
+"100% width of the screen."
+msgstr ""
+
+#: options.php:116
+msgid "Max Number of Products to be Displayed on Home Page"
+msgstr ""
+
+#: options.php:117
+msgid ""
+"How many products would you like to display on the home page before "
+"pagination starts?"
+msgstr ""
+
+#: options.php:125
+msgid "Homepage specific download categories"
+msgstr ""
+
+#: options.php:126
+msgid ""
+"Only display specific categories of downloads on the homepage. Leave empty "
+"to display all categories"
+msgstr ""
+
+#: options.php:131
+msgid "Store Settings"
+msgstr ""
+
+#: options.php:134
+msgid "Member Login Link"
+msgstr ""
+
+#: options.php:135
+msgid ""
+"This link will be used in the header. You must create this page and put the "
+"login form on it using the Easy Digital Downloads shortcode "
+"<strong>[edd_login]</strong>. There is also a <strong>Login Page Template</"
+"strong> available for you to use. Put the entire URL including the http://."
+msgstr ""
+
+#: options.php:140
+msgid "Max Number of Products to be Displayed Per Page"
+msgstr ""
+
+#: options.php:141
+msgid ""
+"How many products would you like to display per page, other than the home "
+"page, before pagination starts?"
+msgstr ""
+
+#: options.php:147
+msgid "Display EXIF data"
+msgstr ""
+
+#: options.php:148
+msgid ""
+"Checking this box will display the EXIF data of the post thumbnail on the "
+"download page."
+msgstr ""
+
+#: options.php:153
+msgid "Styles"
+msgstr ""
+
+#: options.php:156
+msgid "Menu Color Scheme"
+msgstr ""
+
+#: options.php:157
+msgid "Select the color scheme for your menu."
+msgstr ""
+
+#: options.php:161
+msgid "Dark Background, Light Text"
+msgstr ""
+
+#: options.php:161
+msgid "Light Background, Dark Text"
+msgstr ""
+
+#: options.php:163
+msgid "Post Author Box"
+msgstr ""
+
+#: options.php:164
+msgid ""
+"Enable the \"About This Author\" box after posts? The avatar pulls from "
+"gravatar.com and the description pulls from <strong>Users > Your Profile</"
+"strong>"
+msgstr ""
+
+#: options.php:168
+msgid "No"
+msgstr ""
+
+#: options.php:168
+msgid "Yes"
+msgstr ""
+
+#: options.php:170
+msgid "Link Color"
+msgstr ""
+
+#: options.php:171
+msgid "Select the color for your links."
+msgstr ""
+
+#: options.php:176
+msgid "Link Hover Color"
+msgstr ""
+
+#: options.php:177
+msgid "Select the hover color for your links."
+msgstr ""
+
+#: options.php:182
+msgid "Button Color"
+msgstr ""
+
+#: options.php:183
+msgid "Select the color for your buttons."
+msgstr ""
+
+#: options.php:188
+msgid "Button Text Color"
+msgstr ""
+
+#: options.php:189
+msgid ""
+"Select the color for the text of your buttons. This is to help it stand "
+"apart from the button background color."
+msgstr ""
+
+#: options.php:195 sidebar-vendor.php:39
+msgid "Contact"
+msgstr ""
+
+#: options.php:196 options.php:200
+msgid ""
+"The information input here displays using the Contact Page Template. You "
+"must set this template on your contact page."
+msgstr ""
+
+#: options.php:199
+msgid "Contact Information"
+msgstr ""
+
+#: options.php:203
+msgid "Physical Address"
+msgstr ""
+
+#: options.php:204
+msgid "Enter your full address."
+msgstr ""
+
+#: options.php:208
+msgid "Phone Number"
+msgstr ""
+
+#: options.php:209
+msgid "Enter your phone number."
+msgstr ""
+
+#: options.php:213
+msgid "Social Networks"
+msgstr ""
+
+#: options.php:216
+msgid "Twitter"
+msgstr ""
+
+#: options.php:217
+msgid "Enter the URL to your Twitter profile."
+msgstr ""
+
+#: options.php:221
+msgid "Facebook"
+msgstr ""
+
+#: options.php:222
+msgid "Enter the URL to your Facebook profile."
+msgstr ""
+
+#: options.php:226
+msgid "Google+"
+msgstr ""
+
+#: options.php:227
+msgid "Enter the URL to your Google+ profile."
+msgstr ""
+
+#: options.php:231
+msgid "Flickr"
+msgstr ""
+
+#: options.php:232
+msgid "Enter the URL to your Flickr Profile."
+msgstr ""
+
+#: options.php:236
+msgid "Tumblr"
+msgstr ""
+
+#: options.php:237
+msgid "Enter the URL to your Tumblr Profile."
+msgstr ""
+
+#: options.php:241
+msgid "YouTube"
+msgstr ""
+
+#: options.php:242
+msgid "Enter the URL to your YouTube Profile."
+msgstr ""
+
+#: options.php:246
+msgid "Vimeo"
+msgstr ""
+
+#: options.php:247
+msgid "Enter the URL to your Vimeo Profile."
+msgstr ""
+
+#: options.php:251
+msgid "Pinterest"
+msgstr ""
+
+#: options.php:252
+msgid "Enter the URL to your Pinterest Profile."
+msgstr ""
+
+#: options.php:256
+msgid "LinkedIn"
+msgstr ""
+
+#: options.php:257
+msgid "Enter the URL to your LinkedIn Profile."
+msgstr ""
+
+#: options.php:263
+msgid "Support"
+msgstr ""
+
+#: options.php:266
+msgid "Theme Documentation & Support"
+msgstr ""
+
+#: page-login.php:22
+msgid "Back To Home"
+msgstr ""
+
+#: page-login.php:22
+msgid "&larr; Back To Home"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "1 Result for <em>%2$s</em>"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "%1$s Results for <em>%2$s</em>"
+msgstr ""
+
+#: search.php:74
+#, php-format
+msgid "Sorry, there are no results for <em>%1$s</em>."
+msgstr ""
+
+#: search.php:79
+msgid "Please search again."
+msgstr ""
+
+#: searchform-downloads.php:3
+msgid "Search Products"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search Posts"
+msgstr ""
+
+#: sidebar-vendor.php:16
+#, php-format
+msgid "Member Since: %s"
+msgstr ""
+
+#: sidebar-vendor.php:25
+msgid "About Me"
+msgstr ""
+
+#: single-download.php:78
+#, php-format
+msgid "<em>by</em> <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: single-download.php:89
+msgid "Add To Cart"
+msgstr ""
+
+#: single-download.php:106
+msgid "#Categories"
+msgstr ""
+
+#: single-download.php:113
+msgid "#Tags"
+msgstr ""
+
+#: single-download.php:122
+msgid "#About"
+msgstr ""
+
+#: single-download.php:132
+msgid "More From This User"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Stocky"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.designcrumbs.com/stocky"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Stocky is a stock photography theme for use with the Easy Digital Downloads "
+"plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jake Caputo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://designcrumbs.com"
+msgstr ""

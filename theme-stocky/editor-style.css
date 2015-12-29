@@ -1,0 +1,193 @@
+/*
+Stocky Editor Style
+By Jake Caputo
+*/
+
+/* ============================================== FONTS ============================================== */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,400,400italic,700,700italic);
+
+/* ============================================== BASIC STUFF ============================================== */
+
+html .mceContentBody {
+	width: auto;
+}
+
+* {
+	padding:0;
+	margin:0;
+}
+
+strong,
+b {
+	font-family:'Roboto',Helvetica,sans-serif;
+	font-weight: 900;
+}
+
+body {
+	color: #454545;
+	font-size: 16px;
+	line-height: 1.8em;
+    font-family: 'Roboto',sans-serif;
+    max-width: 100%;
+    width: 780px;
+}
+
+p {
+	margin:0 0 15px;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+	border:none;
+}
+
+/* lists inside posts */
+
+ul,
+ol {
+    margin-bottom: 15px
+}
+
+    ul ol {
+        margin-left: 0
+    }
+
+    ul li {
+        margin-left: 10px;
+        list-style: square;
+        list-style-position: inside;
+    }
+
+        ul li ol {
+            margin-left: 10px
+        }
+
+    ol li {
+        margin-left: 10px;
+        list-style: decimal;
+        list-style-position: inside;
+    }
+
+        ol li li {
+            margin-left: 5px
+        }
+
+/* ============================================== HEADINGS ============================================== */
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	line-height: 1.3em;
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 35px;
+	font-size: 34px;
+}
+
+h3 {
+    margin-bottom: 15px;
+    margin-top: 30px;
+	font-size: 140%;
+}
+
+h4 {
+    margin-bottom: 15px;
+    margin-top: 30px;
+	font-size: 120%;
+}
+
+h5 {
+    margin-bottom: 15px;
+	font-size: 100%;
+}
+
+h6 {
+	margin-bottom: 15px;
+	font-size: 90%;
+}
+
+/* Quote */
+
+blockquote {
+    font-style: oblique;
+    margin: 0 0 15px;
+    font-size: 18px;
+    line-height: 25px;
+    padding-left: 25px;
+    border-left: 5px solid #494949;
+}
+
+/* ============================================== ALIGNMENTS ==============================================*/
+
+.alignright {
+	float: right;
+	margin: 0 0 20px 20px;
+}
+
+.alignleft {
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.aligncenter {
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.alignnone {
+	margin: 0 0 20px 0;
+}
+
+.alignright,
+.alignleft,
+.aligncenter,
+.alignnone  {
+	display: block;
+	padding:4px;
+	background-color: #FFFFFF;
+	border:1px solid #E0E0E0;
+	width: auto;
+	max-width: 100%;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.alignright img,
+.alignleft img,
+.aligncenter img,
+.alignnone img {
+	display: block;
+}
+
+p.wp-caption-text {
+    margin: 5px 0 0;
+    text-align: center;
+    font-size: 12px;
+    line-height: 19px;
+    padding:10px 0;
+}
+
+.wp-caption-dd {
+	padding:15px 0 10px;
+}
